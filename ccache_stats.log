@@ -1,0 +1,15 @@
+cache directory                     /home/travis/.ccache
+cache hit (direct)                     6
+cache hit (preprocessed)               0
+cache miss                          1640
+called for link                       25
+called for preprocessing              29
+compile failed                         1
+preprocessor error                    12
+bad compiler arguments                 6
+autoconf compile/link                119
+unsupported compiler option          205
+no input file                         34
+files in cache                      4345
+cache size                         143.7 Mbytes
+max cache size                     512.0 Mbytes
