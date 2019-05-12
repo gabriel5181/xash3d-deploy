@@ -1,0 +1,16 @@
+cache directory                     /home/travis/.ccache
+primary config                      /home/travis/.ccache/ccache.conf
+secondary config      (readonly)    /etc/ccache.conf
+cache hit (direct)                     6
+cache hit (preprocessed)               0
+cache miss                          1884
+called for link                       42
+called for preprocessing              30
+compile failed                         1
+preprocessor error                    17
+bad compiler arguments                 6
+autoconf compile/link                118
+no input file                         34
+files in cache                      4880
+cache size                         173.9 MB
+max cache size                     500.0 MB
